@@ -195,7 +195,7 @@ This repository contains multiple machine learning projects that cover a wide ra
 Ensure you have Python 3.7+ and required libraries installed:
 ```bash
 pip install -r requirements.txt
-
+```
 ### Key Sections:
 - **Project Descriptions**: Each project includes a brief explanation of the problem and solution approach.
 - **Data Structure**: For each project, the data structure is described in detail, including the features and targets used.
